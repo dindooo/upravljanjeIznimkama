@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\upravljanjeIznimkama\bin\Debug\upravljanjeIznimkama.exe.config
+C:\Users\ucenik\source\repos\upravljanjeIznimkama\bin\Debug\upravljanjeIznimkama.exe
+C:\Users\ucenik\source\repos\upravljanjeIznimkama\bin\Debug\upravljanjeIznimkama.pdb
+C:\Users\ucenik\source\repos\upravljanjeIznimkama\obj\Debug\upravljanjeIznimkama.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\upravljanjeIznimkama\obj\Debug\upravljanjeIznimkama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\upravljanjeIznimkama\obj\Debug\upravljanjeIznimkama.Form1.resources
+C:\Users\ucenik\source\repos\upravljanjeIznimkama\obj\Debug\upravljanjeIznimkama.Properties.Resources.resources
+C:\Users\ucenik\source\repos\upravljanjeIznimkama\obj\Debug\upravljanjeIznimkama.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\upravljanjeIznimkama\obj\Debug\upravljanjeIznimkama.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\upravljanjeIznimkama\obj\Debug\upravljanjeIznimkama.exe
+C:\Users\ucenik\source\repos\upravljanjeIznimkama\obj\Debug\upravljanjeIznimkama.pdb
